@@ -9,7 +9,7 @@ class Item:
 
 @dataclass
 class Category:
-    name: str
+    name: strE
 
 
 def get_categories() -> list[Category]:
